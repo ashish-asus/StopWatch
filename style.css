@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+body{
+    background-image: url('sand.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    font-family: 'Otomanopee One', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    color: rgb(250, 4, 168);
+    font-size: 3rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100rem;
+    margin-top: 15rem;
+    flex-wrap: wrap;
+}
+span{
+    font-size: 8rem;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    text-decoration: none;
+}
+.buy{
+    font-size: 5rem;
+    margin: 2rem;
+    background-color: rgb(243, 219, 8);
+    border-radius: 2rem;
+    transition: background-color 2s,color 2s;
+    font-family: 'Otomanopee One', sans-serif;
+}
+.buy:hover{
+    background-color: rgb(243, 35, 8);
+    color: white;
+}
