@@ -2,4 +2,5 @@
 
 Made StopWatch using Vanilla JavaScript,HTML and CSS.
 
-https://user-images.githubusercontent.com/57672513/126048180-19d2ab4c-d665-456b-8363-51c8f027ede5.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57672513/126079940-01205e7e-8e49-4cef-be1e-de48d550bea8.gif)
+
